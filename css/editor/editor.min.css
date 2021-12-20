@@ -1,0 +1,72 @@
+
+body.tolkitseo-new-structure table, 
+body.tolkitseo-new-structure caption,
+body.tolkitseo-new-structure td, 
+body.tolkitseo-new-structure th, 
+body.tolkitseo-new-structure p, 
+body.tolkitseo-new-structure div,
+body.tolkitseo-new-structure blockquote
+{ border:1px dotted #99ccff; }
+
+body.tolkitseo-new-structure a[name] {
+	display:inline-block;
+	vertical-align:baseline;
+	width:12px; 
+	height:12px; 
+	border:1px dotted #ccc;
+	background: url('images/elrte-toolbar.png') -564px -8px no-repeat;
+}
+img { cursor: default; }
+
+img.tolkitseonew-webkit-hl { border:1px dashed #777; }
+
+.tolkitseobm {
+/*	height:15px;
+	width:2px;
+	border:1px solid #000;*/
+}
+
+.tolkitseonew-media-x-shockwave-flash,
+.tolkitseonew-media-quicktime,
+.tolkitseonew-media-x-director,
+.tolkitseonew-media-x-mplayer2,
+.tolkitseonew-media-x-pn-realaudio-plugin,
+.tolkitseonew-media-youtube,
+.tolkitseonew-media-rutube,
+.tolkitseonew-media-vimeo,
+.tolkitseonew-yandex-maps,
+.tolkitseonew-google-maps,
+.tolkitseonew-media {
+	border:1px solid #ccc;
+	background:#eee url(images/media-flash.png) center center no-repeat;
+}
+.tolkitseonew-media-x-shockwave-flash {
+	background-image:url(images/media-flash.png);
+}
+.tolkitseonew-media-youtube {
+	background-image:url(images/media-youtube.png);
+}
+.tolkitseonew-media-vimeo {
+	background-image:url(images/media-vimeo.png);
+}
+.tolkitseonew-media-rutube {
+	background-image:url(images/media-rutube.png);
+}
+.tolkitseonewe-media-quicktime {
+	background-image:url(images/media-quicktime.png);
+}
+.tolkitseonew-media-x-director {
+	background-image:url(images/media-director.png);
+}
+.tolkitseonew-media-x-mplayer2 {
+	background-image:url(images/media-winmedia.png);
+}
+.tolkitseonew-media-x-pn-realaudio-plugin {
+	background-image:url(images/media-realaudio.png);
+}
+.tolkitseonew-yandex-maps {
+	background-image:url(images/yandex-maps.png);
+}
+.tolkitseonew-google-maps {
+	background-image:url(images/google-maps.png);
+}
